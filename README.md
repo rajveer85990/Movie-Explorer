@@ -3,7 +3,6 @@ A responsive Movie Explorer web application built using HTML, CSS, and JavaScrip
  ## 🚀 Features
 
 •⁠  ⁠🔍 Search movies by title
-•⁠  ⁠🎥 Fetch real-time data from OMDb API
 •⁠  ⁠🖼 Display movie posters
 •⁠  ⁠📅 Show movie year and type
 •⁠  ⁠💡 Clean and responsive UI
