@@ -16,7 +16,7 @@ A responsive Movie Explorer web application built using HTML, CSS, and JavaScrip
 •⁠  ⁠HTML5
 •⁠  ⁠CSS3
 •⁠  ⁠JavaScript (ES6)
-•⁠  ⁠OMDb API (Open Movie Database API)
+
 
 ---
 
